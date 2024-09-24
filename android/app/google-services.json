@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239600948380",
+    "project_id": "group57-d9eb8",
+    "storage_bucket": "group57-d9eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239600948380:android:f3c01e7705f82e89ca0959",
+        "android_client_info": {
+          "package_name": "com.example.firebase_57_maadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA83FBkH_OmizU-tl9a28OxRAX2_xwCNgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
